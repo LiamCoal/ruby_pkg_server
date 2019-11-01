@@ -1,0 +1,7 @@
+{
+    "hello-world": {
+        "filenum": 1,
+        "file":    "packages/hello-world.txz",
+        "isgz":    false
+    }
+}
